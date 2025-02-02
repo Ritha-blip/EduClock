@@ -11,7 +11,7 @@
 
 
 ### Hosted Project Link
-
+https://edu-clock-af4rrzel2-ritha-blips-projects.vercel.app/
 
 ### Project Description
 Never Miss a Class
